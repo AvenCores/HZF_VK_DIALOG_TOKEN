@@ -108,7 +108,11 @@ def send_message(token, userid, message):
 
 if __name__ == "__main__":
 
-    print ("VK DIALOG TOKEN BY HZF")
+    print ("__     ___  __  _____ ___  _  _______ _   _ ")
+    print ("\ \   / / |/ / |_   _/ _ \| |/ / ____| \ | |")
+    print (" \ \ / /| ' /    | || | | | ' /|  _| |  \| |")
+    print ("  \ V / | . \    | || |_| | . \| |___| |\  |")
+    print ("   \_/  |_|\_\   |_| \___/|_|\_\_____|_| \_|")
     print ("")
     print ("Telegram Channel: t.me/hzfnews")
     print ("VK: vk.com/hzforum1")
